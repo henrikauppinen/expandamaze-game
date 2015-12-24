@@ -28,8 +28,8 @@ public class GameManager : MonoBehaviour {
 		mazeStartSize = 5;
 		level = 1;
 
-		StartMenu.enabled = true;
 		GameUI.enabled = false;
+		StartMenu.enabled = true;
 
 	}
 	
